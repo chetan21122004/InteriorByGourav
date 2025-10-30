@@ -9,17 +9,13 @@ export const Footer = () => {
     "Wardrobes & Closets", 
     "Living Room Design",
     "Bedroom Interiors",
-    "Office Interiors",
     "Complete Home Design"
   ];
 
   const quickLinks = [
     { name: "Home", href: "#home" },
     { name: "Portfolio", href: "#gallery" },
-    { name: "Services", href: "#services" },
-    { name: "About Us", href: "#about" },
     { name: "Contact", href: "#contact" },
-    { name: "Get Quote", href: "#quote" }
   ];
 
   const socialLinks = [
