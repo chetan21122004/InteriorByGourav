@@ -19,8 +19,7 @@ const Index = () => {
     <div className="min-h-screen scroll-smooth">
       <Header />
       <HeroSection />
-      {/* <BenefitsSection /> */}
-      {/* <WhyChooseSection /> */}
+   
       <BudgetSection />
       <WhatWeOfferSection />
       <section id="gallery">

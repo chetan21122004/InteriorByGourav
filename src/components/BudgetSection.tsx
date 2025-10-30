@@ -8,12 +8,12 @@ export const BudgetSection = () => {
       alt: "Budget Home Interior",
     },
     {
-      price: "Starting at 4.23L*",
+      price: "2bhk Starting at 5.75L*",
       image: "/work/1.jpg",
       alt: "Premium Home Interior",
     },
     {
-      price: "Starting at 4.81L*",
+      price: "3bhk Starting at 7.75L*",
       image: "/work/11.jpg",
       alt: "Luxury Home Interior",
     },
