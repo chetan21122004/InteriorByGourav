@@ -179,7 +179,7 @@ export const WhatWeOfferSection = () => {
                 </div>
                 <div className="flex items-start md:items-center">
                   <CheckCircle className="w-5 h-5 md:w-6 md:h-6 text-accent mr-3 flex-shrink-0 mt-0.5 md:mt-0" />
-                  <span className="text-sm md:text-lg leading-relaxed">500+ Satisfied Customers Across India</span>
+                  <span className="text-sm md:text-lg leading-relaxed">150+ Satisfied Customers Across India</span>
                 </div>
                 <div className="flex items-start md:items-center">
                   <Shield className="w-5 h-5 md:w-6 md:h-6 text-accent mr-3 flex-shrink-0 mt-0.5 md:mt-0" />
