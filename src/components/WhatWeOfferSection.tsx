@@ -43,9 +43,9 @@ export const WhatWeOfferSection = () => {
     <section className="py-8 md:py-12 lg:py-16 bg-gradient-to-br from-gray-50 via-white to-gray-50">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header Section */}
-        <div className="text-center mb-12 md:mb-16 lg:mb-20">
+        <div className="text-center mb-6 md:mb-8 lg:mb-10">
           {/* Main Heading */}
-          <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold text-brand-navy mb-4 md:mb-6 tracking-tight">
+          <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold text-brand-navy  tracking-tight">
             What We{" "}
             <span className="relative">
               <span className="text-brand-gold">Offer</span>
