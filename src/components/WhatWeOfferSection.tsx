@@ -67,7 +67,7 @@ export const WhatWeOfferSection = () => {
               size="lg"
               className="px-6 sm:px-8 md:px-10 py-3 md:py-4 text-sm sm:text-base md:text-lg font-semibold hover:scale-105 transition-all duration-300 shadow-xl hover:shadow-2xl relative overflow-hidden group w-full sm:w-auto"
             >
-              <span className="relative z-10">GET FREE CONSULTATION</span>
+              <span className="relative z-10">BOOK A FREE CONSULTATION</span>
               <div className="absolute inset-0 bg-gradient-to-r from-yellow-400 to-brand-gold opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
             </Button>
           </div>
